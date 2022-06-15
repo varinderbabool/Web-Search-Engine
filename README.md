@@ -34,5 +34,6 @@ Search engine flow of execution
 6. For each text file, a TST is constructed, and the frequency of keywords is extracted.
 7. HashMap is sroted in decreasing order to find the ranking of the pages.
 8. Edit Distance algorithm is used to suggest alternative similar words in case a word is not found in files
+9. Here's a YouTube link for more explainations: https://www.youtube.com/watch?v=AxrRZ7tjfaA 
 
 
